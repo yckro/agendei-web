@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Login from "./pages/login/login";
 import Register from "./pages/register/register";
-import Appointments from "./pages/appointments/appointmens";
+import Appointments from "./pages/appointments/appointments";
 
 function Rotas() {
     return <BrowserRouter>
